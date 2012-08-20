@@ -1,0 +1,9 @@
+[submodule "htdocs/node_modules/async"]
+	path = htdocs/node_modules/async
+	url = https://github.com/caolan/async.git
+[submodule "htdocs/node_modules/node-static"]
+	path = htdocs/node_modules/node-static
+	url = https://github.com/cloudhead/node-static.git
+[submodule "htdocs/node_modules/requireindex"]
+	path = htdocs/node_modules/requireindex
+	url = https://github.com/eulalie367/requireindex.git
