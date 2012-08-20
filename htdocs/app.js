@@ -1,7 +1,7 @@
 var mvc = require("mvc");
 
 
-mvc.server.port = 80;
+mvc.server.port = 8080;
 mvc.server.debug = true;
 mvc.server.excludes += "|server.js";
 mvc.server.defaultPath = "home";

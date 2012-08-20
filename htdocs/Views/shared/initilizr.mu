@@ -53,9 +53,6 @@
 						  -->
 						</li>
 					{{/Menu}}
-					<li>
-						<a href="/kill">Kill Process</a>
-					</li>
 				</ul>
 			</nav>
 		</header>
