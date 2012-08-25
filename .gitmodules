@@ -1,27 +1,12 @@
 [submodule "htdocs/node_modules/async"]
 	path = htdocs/node_modules/async
 	url = https://github.com/caolan/async.git
-[submodule "htdocs/node_modules/node-static"]
-	path = htdocs/node_modules/node-static
-	url = https://github.com/cloudhead/node-static.git
 [submodule "htdocs/node_modules/requireindex"]
 	path = htdocs/node_modules/requireindex
 	url = https://github.com/eulalie367/requireindex.git
-[submodule "htdocs/node_modules/debug"]
-	path = htdocs/node_modules/debug
-	url = https://github.com/visionmedia/debug.git
 [submodule "htdocs/node_modules/send"]
 	path = htdocs/node_modules/send
 	url = https://github.com/eulalie367/send.git
-[submodule "htdocs/node_modules/mime"]
-	path = htdocs/node_modules/mime
-	url = https://github.com/broofa/node-mime
-[submodule "htdocs/node_modules/range-parser"]
-	path = htdocs/node_modules/range-parser
-	url = https://github.com/visionmedia/node-range-parser.git
-[submodule "htdocs/node_modules/fresh"]
-	path = htdocs/node_modules/fresh
-	url = https://github.com/visionmedia/node-fresh.git
 [submodule "htdocs/node_modules/winston"]
 	path = htdocs/node_modules/winston
 	url = https://github.com/flatiron/winston.git
