@@ -22,3 +22,6 @@
 [submodule "htdocs/node_modules/fresh"]
 	path = htdocs/node_modules/fresh
 	url = https://github.com/visionmedia/node-fresh.git
+[submodule "htdocs/node_modules/winston"]
+	path = htdocs/node_modules/winston
+	url = https://github.com/flatiron/winston.git
