@@ -3,7 +3,7 @@ var mvc = require("mvc");
 
 mvc.server.port = 80;
 mvc.server.debug = true;
-mvc.server.excludes += "|server.js";
+mvc.server.excludes += "|app.js";
 mvc.server.defaultPath = "home";
 
 mvc.view.templateExtension = ".mu";
