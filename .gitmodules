@@ -9,4 +9,4 @@
 	url = https://github.com/eulalie367/send.git
 [submodule "htdocs/node_modules/winston"]
 	path = htdocs/node_modules/winston
-	url = https://github.com/flatiron/winston.git
+	url = https://github.com/eulalie367/winston.git
