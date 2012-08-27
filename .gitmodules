@@ -7,3 +7,6 @@
 [submodule "htdocs/node_modules/winston"]
 	path = htdocs/node_modules/winston
 	url = https://github.com/eulalie367/winston.git
+[submodule "htdocs/node_modules/less"]
+	path = htdocs/node_modules/less
+	url = https://github.com/cloudhead/less.js.git

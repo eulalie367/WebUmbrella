@@ -13,11 +13,11 @@
 
 	<meta name="viewport" content="{{Viewport}}" />
 
-	<link rel="stylesheet/less" href="/less/style.less" />
-	<script type="text/javascript" src="/js/libs/less-1.3.0.min.js"></script>
+	<link type="text/css" rel="stylesheet" href="/less/style.less" />
 	
 	<!-- Use SimpLESS (Win/Linux/Mac) or LESS.app (Mac) to compile your .less files
 	to style.css, and replace the 2 lines above by this one:
+	<script type="text/javascript" src="/js/libs/less-1.3.0.min.js"></script>
 
 	<link rel="stylesheet" href="less/style.css">
 	 -->
