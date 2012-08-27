@@ -4,9 +4,6 @@
 [submodule "htdocs/node_modules/requireindex"]
 	path = htdocs/node_modules/requireindex
 	url = https://github.com/eulalie367/requireindex.git
-[submodule "htdocs/node_modules/send"]
-	path = htdocs/node_modules/send
-	url = https://github.com/eulalie367/send.git
 [submodule "htdocs/node_modules/winston"]
 	path = htdocs/node_modules/winston
 	url = https://github.com/eulalie367/winston.git
